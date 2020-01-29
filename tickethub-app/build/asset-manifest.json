@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b100e6da.chunk.css",
+    "main.js": "./static/js/main.e2e8070f.chunk.js",
+    "main.js.map": "./static/js/main.e2e8070f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.326e88cc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.326e88cc.js.map",
+    "static/js/2.abc658a5.chunk.js": "./static/js/2.abc658a5.chunk.js",
+    "static/js/2.abc658a5.chunk.js.map": "./static/js/2.abc658a5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4b48141ef48c0a62f33dfbdf74794717.js": "./precache-manifest.4b48141ef48c0a62f33dfbdf74794717.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "./static/css/main.b100e6da.chunk.css.map",
+    "static/media/aiw_poster.jpg": "./static/media/aiw_poster.30cb99eb.jpg",
+    "static/media/charliesangels.jpg": "./static/media/charliesangels.8e42e044.jpg",
+    "static/media/doctorsleep.jpg": "./static/media/doctorsleep.4134d1da.jpg",
+    "static/media/joker.jpg": "./static/media/joker.bb4a1b47.jpg",
+    "static/media/lastchristmas.jpg": "./static/media/lastchristmas.d6c77b7d.jpg",
+    "static/media/maleficent.jpg": "./static/media/maleficent.98c3dd09.jpg",
+    "static/media/midway.jpg": "./static/media/midway.b94f84ce.jpg",
+    "static/media/spiderman.jpg": "./static/media/spiderman.6b480b7a.jpg",
+    "static/media/terminator.jpg": "./static/media/terminator.7d1c1e99.jpg",
+    "static/media/theatre1.jpg": "./static/media/theatre1.7d28dc0a.jpg",
+    "static/media/theatre2.jpg": "./static/media/theatre2.9b07bb53.jpg",
+    "static/media/theatre3.jpg": "./static/media/theatre3.17509a7e.jpg",
+    "static/media/theatre4.jpg": "./static/media/theatre4.15e3cb85.jpg",
+    "static/media/theatre5.jpg": "./static/media/theatre5.22062ae4.jpg",
+    "static/media/theatre6.jpg": "./static/media/theatre6.6b834f2e.jpg",
+    "static/media/ww.jpg": "./static/media/ww.fda977a2.jpg",
+    "static/media/zombieland.jpg": "./static/media/zombieland.22747a2b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.326e88cc.js",
+    "static/js/2.abc658a5.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e2e8070f.chunk.js"
+  ]
+}
